@@ -1,0 +1,148 @@
+,name,date,observed,public,country,uuid,weekday.date.name,weekday.date.numeric,weekday.observed.name,weekday.observed.numeric
+0,New Year's Day,2022-01-01,2021-12-31,True,US-NY,82f78b8a-019e-479e-a19f-99040275f9bf,Saturday,5,Friday,4
+1,Seventh Day of Kwanzaa,2022-01-01,2022-01-01,False,US-NY,0e766ff3-0d31-40e1-85e1-49ed61ab006d,Saturday,5,Saturday,5
+2,Epiphany,2022-01-06,2022-01-06,False,US-NY,61d8d9ba-8ce1-4e64-9b1a-f40d30f74a57,Thursday,3,Thursday,3
+3,Orthodox Christmas Eve,2022-01-06,2022-01-06,False,US-NY,bc893ac4-be85-4af6-abad-687e923bbcec,Thursday,3,Thursday,3
+4,Orthodox Christmas Day,2022-01-07,2022-01-07,False,US-NY,8ed029b2-c39d-46aa-b15a-4c67540380e4,Friday,4,Friday,4
+5,Stephen Foster Memorial Day,2022-01-13,2022-01-13,False,US-NY,099def58-4545-4468-bdbb-d370c7726189,Thursday,3,Thursday,3
+6,Orthodox New Year's Day,2022-01-14,2022-01-14,False,US-NY,4f7a5c31-18fa-4ffc-a47c-b889576ca002,Friday,4,Friday,4
+7,Martin Luther King Jr. Day,2022-01-17,2022-01-17,True,US-NY,638d6949-d68e-438a-9335-5ef07e221db5,Monday,0,Monday,0
+8,Chinese New Year's Day,2022-02-01,2022-02-01,False,US-NY,cbf02d47-8eb1-4d05-acf9-b92c926990a4,Tuesday,1,Tuesday,1
+9,National Freedom Day,2022-02-01,2022-02-01,False,US-NY,ea82454e-442c-438e-a23a-fe1466ce478d,Tuesday,1,Tuesday,1
+10,Groundhog Day,2022-02-02,2022-02-02,False,US-NY,addc2151-d9f1-407e-b63d-dc240a91a1db,Wednesday,2,Wednesday,2
+11,National Wear Red Day,2022-02-04,2022-02-04,False,US-NY,a251947e-d82c-4636-b5da-6f1e1da4633e,Friday,4,Friday,4
+12,Super Bowl Sunday,2022-02-06,2022-02-06,False,US-NY,8947cc36-dd49-4101-8db3-6b8100d93688,Sunday,6,Sunday,6
+13,Lincoln's Birthday,2022-02-12,2022-02-12,True,US-NY,8cc5dc13-9b18-4d49-baf6-04d04eef5ac6,Saturday,5,Saturday,5
+14,Valentine's Day,2022-02-14,2022-02-14,False,US-NY,351c593b-6b5c-4012-871c-292d5c3ccd63,Monday,0,Monday,0
+15,Susan B. Anthony's Birthday,2022-02-15,2022-02-15,False,US-NY,bafc238b-aa98-470e-85bb-4cb61a0d159f,Tuesday,1,Tuesday,1
+16,George Washington's Birthday,2022-02-21,2022-02-21,True,US-NY,0f1f387c-fad3-4f69-9275-2dcf2201b4a8,Monday,0,Monday,0
+17,NHL Trade Deadline,2022-02-28,2022-02-28,False,US-NY,30d881f9-a0a6-4bac-a2f6-dcef5dea15cc,Monday,0,Monday,0
+18,Saint David's Day,2022-03-01,2022-03-01,False,US-NY,1d95a43e-5e8d-48e3-8ece-a1bdcdc73465,Tuesday,1,Tuesday,1
+19,Shrove Tuesday,2022-03-01,2022-03-01,False,US-NY,aa1f5486-6950-40fe-b07b-21f49df216ba,Tuesday,1,Tuesday,1
+20,Ash Wednesday,2022-03-02,2022-03-02,False,US-NY,24ff9f76-054f-41e3-8b9c-f9be07d88b05,Wednesday,2,Wednesday,2
+21,Read Across America Day,2022-03-02,2022-03-02,False,US-NY,b041f0c9-64dd-4130-858b-c660279b9327,Wednesday,2,Wednesday,2
+22,Employee Appreciation Day,2022-03-04,2022-03-04,False,US-NY,6e59c06f-172a-4337-9ada-e81bc21ddc07,Friday,4,Friday,4
+23,Start of Daylight Saving Time,2022-03-13,2022-03-13,False,US-NY,e9affe10-2e7b-4413-9c90-37448c09d52d,Sunday,6,Sunday,6
+24,Saint Patrick's Day,2022-03-17,2022-03-17,False,US-NY,63968111-75a0-4fef-aa69-82600044f5a7,Thursday,3,Thursday,3
+25,March Equinox,2022-03-20,2022-03-20,False,US-NY,dc00ad00-ee2b-4fdf-875e-076e8f341039,Sunday,6,Sunday,6
+26,National Vietnam War Veterans Day,2022-03-29,2022-03-29,False,US-NY,1074fc22-732f-4d0d-9abb-3c001bde5832,Tuesday,1,Tuesday,1
+27,April Fools' Day,2022-04-01,2022-04-01,False,US-NY,da1504da-616b-4bc7-83c1-b608b1d6cb0f,Friday,4,Friday,4
+28,National Tartan Day,2022-04-06,2022-04-06,False,US-NY,db9a11ef-849f-42a1-922c-32f462d29af7,Wednesday,2,Wednesday,2
+29,Palm Sunday,2022-04-10,2022-04-10,False,US-NY,0dda11d3-1748-4569-84b7-13e65d2ec168,Sunday,6,Sunday,6
+30,Thomas Jefferson's Birthday,2022-04-13,2022-04-13,False,US-NY,99653051-d08c-4686-aa98-7dc01a03c43b,Wednesday,2,Wednesday,2
+31,Maundy Thursday,2022-04-14,2022-04-14,False,US-NY,ddbab737-c022-45e4-a2da-2e19e3a21f95,Thursday,3,Thursday,3
+32,Good Friday,2022-04-15,2022-04-15,False,US-NY,07a597fc-cf4a-4627-8ba2-a89f159c2db4,Friday,4,Friday,4
+33,Holy Saturday,2022-04-16,2022-04-16,False,US-NY,475d15c9-aed3-4f0e-ba7d-2274e4e78ff8,Saturday,5,Saturday,5
+34,Easter,2022-04-17,2022-04-17,False,US-NY,d2b577c3-7d65-48b3-8010-92122e7fe159,Sunday,6,Sunday,6
+35,Tax Day,2022-04-15,2022-04-18,False,US-NY,f5472593-c55d-405e-9e23-407fa5ffc6dc,Friday,4,Monday,0
+36,Boston Marathon,2022-04-18,2022-04-18,False,US-NY,61619da3-6c18-45cc-a6bd-ccb3220bff89,Monday,0,Monday,0
+37,Easter Monday,2022-04-18,2022-04-18,False,US-NY,40e2377e-e182-4293-a344-3a3b4614a1f3,Monday,0,Monday,0
+38,Earth Day,2022-04-22,2022-04-22,False,US-NY,20928c66-80ed-454c-b24a-7eab2a498ab0,Friday,4,Friday,4
+39,Orthodox Good Friday,2022-04-22,2022-04-22,False,US-NY,bc848b20-fbbe-4aca-938b-5e9ef524a380,Friday,4,Friday,4
+40,Orthodox Holy Saturday,2022-04-23,2022-04-23,False,US-NY,8954886c-9561-44b7-bf4a-5760c9aed5af,Saturday,5,Saturday,5
+41,Orthodox Easter,2022-04-24,2022-04-24,False,US-NY,e77736aa-b56e-400c-a6d2-c0267b02bb48,Sunday,6,Sunday,6
+42,Orthodox Easter Monday,2022-04-25,2022-04-25,False,US-NY,942660b0-b7a9-4ad2-8268-2c18d3c5e0af,Monday,0,Monday,0
+43,Administrative Professionals Day,2022-04-27,2022-04-27,False,US-NY,6cc474bb-a4ce-4f5e-a6c7-1850b7ec6fe2,Wednesday,2,Wednesday,2
+44,Take our Daughters and Sons to Work Day,2022-04-28,2022-04-28,False,US-NY,52fca050-edb1-4c42-bd79-c4f6a6b8b013,Thursday,3,Thursday,3
+45,National Arbor Day,2022-04-29,2022-04-29,False,US-NY,4f920c39-058d-436b-afb9-007da1869479,Friday,4,Friday,4
+46,Law Day,2022-05-01,2022-05-01,False,US-NY,d576a970-f9b2-47a0-92b8-567cdeb9fbd0,Sunday,6,Sunday,6
+47,Loyalty Day,2022-05-01,2022-05-01,False,US-NY,44f59429-6d4e-4680-a89e-d8ad384d8d86,Sunday,6,Sunday,6
+48,Star Wars Day,2022-05-04,2022-05-04,False,US-NY,60fcc507-8c51-4c4b-af81-b343dbaf830b,Wednesday,2,Wednesday,2
+49,Cinco de Mayo,2022-05-05,2022-05-05,False,US-NY,67914768-61c8-4ece-8758-184e9e6e313a,Thursday,3,Thursday,3
+50,National Day of Prayer,2022-05-05,2022-05-05,False,US-NY,702351b8-3c6d-4d16-b2f5-739557bb8445,Thursday,3,Thursday,3
+51,Kentucky Oaks,2022-05-06,2022-05-06,False,US-NY,b7e086ee-7a97-445e-add0-37bea518e72f,Friday,4,Friday,4
+52,Military Spouse Appreciation Day,2022-05-06,2022-05-06,False,US-NY,9b5162c3-89e1-4b57-8fad-5f8d39c8c996,Friday,4,Friday,4
+53,National Nurses Day,2022-05-06,2022-05-06,False,US-NY,6306843b-cf58-40a4-a3e7-640bd5359a4f,Friday,4,Friday,4
+54,Kentucky Derby,2022-05-07,2022-05-07,False,US-NY,f050fb17-d1b7-425a-a590-0c34c59523cd,Saturday,5,Saturday,5
+55,National Explosive Ordnance Disposal (EOD) Day,2022-05-07,2022-05-07,False,US-NY,cc72771a-a2cf-4a61-99b1-77c5dc1b88bb,Saturday,5,Saturday,5
+56,Mother's Day,2022-05-08,2022-05-08,False,US-NY,0746cfc7-6432-4dcc-bc75-dfef56c41086,Sunday,6,Sunday,6
+57,Victory in Europe Day,2022-05-08,2022-05-08,False,US-NY,64c1c0d0-9a0e-4b78-baf2-bc9082bf8d69,Sunday,6,Sunday,6
+58,Peace Officers Memorial Day,2022-05-15,2022-05-15,False,US-NY,c9729d73-aab7-4b87-8d15-6e7f87c5efa4,Sunday,6,Sunday,6
+59,National Defense Transportation Day,2022-05-20,2022-05-20,False,US-NY,b2c22d06-c339-4255-bcb1-f8d746d8e49e,Friday,4,Friday,4
+60,Armed Forces Day,2022-05-21,2022-05-21,False,US-NY,f10bc2f7-a4f1-48b5-858d-0674175307c5,Saturday,5,Saturday,5
+61,Preakness Stakes,2022-05-21,2022-05-21,False,US-NY,983dcbc0-1d1e-4db4-8b35-b872ca4c99af,Saturday,5,Saturday,5
+62,National Maritime Day,2022-05-22,2022-05-22,False,US-NY,8ff36ad7-0040-48ba-8f1b-9d9b47516f35,Sunday,6,Sunday,6
+63,Emergency Medical Services for Children Day,2022-05-25,2022-05-25,False,US-NY,07138790-e01d-4cee-9c75-4f55b23040af,Wednesday,2,Wednesday,2
+64,National Missing Children's Day,2022-05-25,2022-05-25,False,US-NY,df25d3e5-7251-4ae1-a13a-e177cdf6006c,Wednesday,2,Wednesday,2
+65,Feast of the Ascension of Jesus Christ,2022-05-26,2022-05-26,False,US-NY,b750d05c-5375-41a3-a4d4-a9b5379ea45e,Thursday,3,Thursday,3
+66,Memorial Day,2022-05-30,2022-05-30,True,US-NY,f7e566e9-ac02-4f8c-895d-9d673e8fe956,Monday,0,Monday,0
+67,Pentecost,2022-06-05,2022-06-05,False,US-NY,f5b6704c-fb59-41b8-a32d-75f35d12e0d8,Sunday,6,Sunday,6
+68,D-Day,2022-06-06,2022-06-06,False,US-NY,c51e8fed-e8ef-4542-aa22-b05794a60841,Monday,0,Monday,0
+69,Pentecost Monday,2022-06-06,2022-06-06,False,US-NY,65a74656-7e64-4dcd-ba21-2b67efeed08c,Monday,0,Monday,0
+70,Trinity Sunday,2022-06-12,2022-06-12,False,US-NY,9a0590dc-7128-4544-9386-1e5022deb094,Sunday,6,Sunday,6
+71,Army Birthday,2022-06-14,2022-06-14,False,US-NY,1b79f2b5-ed62-43f9-94a6-a0d012657b6b,Tuesday,1,Tuesday,1
+72,Flag Day,2022-06-14,2022-06-14,False,US-NY,e587a63e-acbd-4541-99a2-d599ce29789c,Tuesday,1,Tuesday,1
+73,Feast of Corpus Christi,2022-06-16,2022-06-16,False,US-NY,5944d385-839e-4d6c-b333-bd233c20eaa4,Thursday,3,Thursday,3
+74,Father's Day,2022-06-19,2022-06-19,False,US-NY,a33a96e6-ce3a-49fb-9951-add49254157b,Sunday,6,Sunday,6
+75,Juneteenth National Independence Day,2022-06-19,2022-06-20,True,US-NY,634a578d-bf88-47ba-8faf-7ee57c6b15b8,Sunday,6,Monday,0
+76,American Eagle Day,2022-06-20,2022-06-20,False,US-NY,e9f15f59-63a2-4a89-8f40-707f079deccf,Monday,0,Monday,0
+77,June Solstice,2022-06-21,2022-06-21,False,US-NY,ded6dbcb-17db-4c31-9923-cde05c8bdc2f,Tuesday,1,Tuesday,1
+78,Helen Keller Day,2022-06-27,2022-06-27,False,US-NY,c0f88df8-d2ce-4452-99bb-cff6306b7735,Monday,0,Monday,0
+79,Independence Day,2022-07-04,2022-07-04,True,US-NY,88268759-9b90-468c-804f-b729b8418e7c,Monday,0,Monday,0
+80,Bastille Day,2022-07-14,2022-07-14,False,US-NY,a5270d7c-92dc-45aa-964e-b9ba75b6cb5b,Thursday,3,Thursday,3
+81,Parents' Day,2022-07-24,2022-07-24,False,US-NY,9fd99e29-2a59-407d-a4ce-c2f4d6ffc66d,Sunday,6,Sunday,6
+82,National Korean War Veterans Armistice Day,2022-07-27,2022-07-27,False,US-NY,a4456b84-d2ad-4b7f-8693-1400f90c59dd,Wednesday,2,Wednesday,2
+83,Coast Guard Birthday,2022-08-04,2022-08-04,False,US-NY,0360dfe6-6475-4bb5-998d-38fe81ff7f1b,Thursday,3,Thursday,3
+84,Purple Heart Day,2022-08-07,2022-08-07,False,US-NY,26bbe3d3-6e48-4bdc-8e9f-6d6b3e632cda,Sunday,6,Sunday,6
+85,Assumption of Mary,2022-08-15,2022-08-15,False,US-NY,83a32d4b-1341-4ce1-89b5-ac2330a6c9d4,Monday,0,Monday,0
+86,National Aviation Day,2022-08-19,2022-08-19,False,US-NY,b197860b-3938-4dfd-beb4-27a1a419090b,Friday,4,Friday,4
+87,Senior Citizens Day,2022-08-21,2022-08-21,False,US-NY,6cadafe4-9fd0-4403-8bb8-e5df6babd477,Sunday,6,Sunday,6
+88,Women's Equality Day,2022-08-26,2022-08-26,False,US-NY,bf4cc0b5-8b1b-458b-b46e-60ae45e487dd,Friday,4,Friday,4
+89,Labor Day,2022-09-05,2022-09-05,True,US-NY,8f052b64-922c-420f-b793-4bec237580fa,Monday,0,Monday,0
+90,Carl Garner Federal Lands Cleanup Day,2022-09-10,2022-09-10,False,US-NY,450ba59a-e9fd-4e96-9044-1c0348dd77ba,Saturday,5,Saturday,5
+91,National Grandparent's Day,2022-09-11,2022-09-11,False,US-NY,964c017c-ccf8-413a-b760-a10518c53a4d,Sunday,6,Sunday,6
+92,Patriot Day,2022-09-11,2022-09-11,False,US-NY,e7367619-1893-4f2d-b685-e7bb7905151a,Sunday,6,Sunday,6
+93,National POW/MIA Recognition Day,2022-09-16,2022-09-16,False,US-NY,4762d8e6-b23c-4cda-b5c6-2187c1a8c9be,Friday,4,Friday,4
+94,Citizenship Day,2022-09-17,2022-09-16,False,US-NY,117a88f1-e5f6-449a-a037-f86654e1f52c,Saturday,5,Friday,4
+95,National CleanUp Day,2022-09-17,2022-09-17,False,US-NY,eb0fdbc9-1af5-4921-8397-60ea34d07a8c,Saturday,5,Saturday,5
+96,Air Force Birthday,2022-09-18,2022-09-18,False,US-NY,d66643f6-0eb7-4ba4-83e3-153f9b6cb141,Sunday,6,Sunday,6
+97,September Equinox,2022-09-23,2022-09-23,False,US-NY,bb7516f0-22d6-4b11-86f1-d5dd44591502,Friday,4,Friday,4
+98,Gold Star Mother's Day,2022-09-25,2022-09-25,False,US-NY,76e55b3c-032e-4ee2-a29d-31cf801e9237,Sunday,6,Sunday,6
+99,Rosh Hashanah,2022-09-26,2022-09-26,False,US-NY,90d8a1d6-462c-4ce4-9d59-02bb44fdccd7,Monday,0,Monday,0
+100,Child Health Day,2022-10-03,2022-10-03,False,US-NY,bf65c24d-39f5-4ecd-82df-976e606d974e,Monday,0,Monday,0
+101,Feast of Saint Francis Assisi,2022-10-04,2022-10-04,False,US-NY,635341ae-9d81-4e09-a5b4-8fd63d9dc43a,Tuesday,1,Tuesday,1
+102,Yom Kippur,2022-10-05,2022-10-05,False,US-NY,c2ba3387-eef2-40d9-b490-c8e3bde0614e,Wednesday,2,Wednesday,2
+103,German-American Day,2022-10-06,2022-10-06,False,US-NY,78bb80ee-bae0-4348-a250-f72371749a30,Thursday,3,Thursday,3
+104,Leif Erikson Day,2022-10-09,2022-10-09,False,US-NY,e2ecedb8-f98a-4003-a7c0-07458582ed13,Sunday,6,Sunday,6
+105,Columbus Day,2022-10-10,2022-10-10,True,US-NY,dbb9cc22-e9d4-4a2b-9fec-4202e22d2a8d,Monday,0,Monday,0
+106,Navy Birthday,2022-10-13,2022-10-13,False,US-NY,32b1d032-32a7-4567-9874-b2aa31c31855,Thursday,3,Thursday,3
+107,White Cane Safety Day,2022-10-15,2022-10-15,False,US-NY,f000618f-d796-4794-bd41-49e8907a691d,Saturday,5,Saturday,5
+108,Boss's Day,2022-10-16,2022-10-17,False,US-NY,2287d1e5-745d-4355-8199-168c60b2914b,Sunday,6,Monday,0
+109,Halloween,2022-10-31,2022-10-31,False,US-NY,39e66b87-ff47-4222-8c00-735b2416be52,Monday,0,Monday,0
+110,All Saints' Day,2022-11-01,2022-11-01,False,US-NY,cdd89aeb-66f2-4a5b-8846-2f07af08aec4,Tuesday,1,Tuesday,1
+111,All Souls' Day,2022-11-02,2022-11-02,False,US-NY,118d697a-1805-4b37-ac84-38780c25f2c5,Wednesday,2,Wednesday,2
+112,End of Daylight Saving Time,2022-11-06,2022-11-06,False,US-NY,1f5795b3-a88a-4040-b46e-49e8b2d59195,Sunday,6,Sunday,6
+113,New York City Marathon,2022-11-06,2022-11-06,False,US-NY,dc1ceec1-bebd-483a-b283-c81b0b8138ef,Sunday,6,Sunday,6
+114,Election Day,2022-11-08,2022-11-08,False,US-NY,a3715bff-7f6a-490c-a73b-6d326906c7a2,Tuesday,1,Tuesday,1
+115,Marine Corps Birthday,2022-11-10,2022-11-10,False,US-NY,f423c9c2-da8d-467e-8868-9f04384693f9,Thursday,3,Thursday,3
+116,Veterans Day,2022-11-11,2022-11-11,True,US-NY,3e239a53-e436-458e-9452-f93d9470c17e,Friday,4,Friday,4
+117,Thanksgiving Day,2022-11-24,2022-11-24,True,US-NY,1bc492ba-366f-4318-96af-7c2372779cd5,Thursday,3,Thursday,3
+118,Black Friday,2022-11-25,2022-11-25,False,US-NY,b1a8f44e-7f20-45dd-a5c0-bdd2938b2039,Friday,4,Friday,4
+119,First Sunday of Advent,2022-11-27,2022-11-27,False,US-NY,6a95713e-cda2-41ed-a755-1484d71504fd,Sunday,6,Sunday,6
+120,Cyber Monday,2022-11-28,2022-11-28,False,US-NY,0d48075a-4bd2-4a63-873f-b27ff1aa2289,Monday,0,Monday,0
+121,Saint Nicholas' Day,2022-12-06,2022-12-06,False,US-NY,d155ce89-2620-4bf6-a892-07d84cfc7a5e,Tuesday,1,Tuesday,1
+122,Pearl Harbor Remembrance Day,2022-12-07,2022-12-07,False,US-NY,1b344728-718f-460a-b6a7-a958c7f91319,Wednesday,2,Wednesday,2
+123,Feast of the Immaculate Conception,2022-12-08,2022-12-08,False,US-NY,aa3aeaec-a9ee-4396-839b-b192b997317a,Thursday,3,Thursday,3
+124,Feast of Our Lady Guadalupe,2022-12-12,2022-12-12,False,US-NY,74fafd07-4ae3-4b8f-8b4c-475a2e019916,Monday,0,Monday,0
+125,National Guard Birthday,2022-12-13,2022-12-13,False,US-NY,fa688813-22ea-410d-a9c5-6c72bfb20e54,Tuesday,1,Tuesday,1
+126,Bill of Rights Day,2022-12-15,2022-12-15,False,US-NY,6297f398-949e-4b60-a8cc-17cb4413421d,Thursday,3,Thursday,3
+127,Pan American Aviation Day,2022-12-17,2022-12-17,False,US-NY,4cb6f072-4df7-4f9d-bb77-6dc7e07a9a4b,Saturday,5,Saturday,5
+128,Wright Brothers Day,2022-12-17,2022-12-17,False,US-NY,07cb77a3-fc9b-4f7a-b986-8a260fb7dcd6,Saturday,5,Saturday,5
+129,Hanukkah,2022-12-19,2022-12-19,False,US-NY,e6077458-4c05-4079-a2e9-e99f6074c279,Monday,0,Monday,0
+130,Second Day of Hanukkah,2022-12-20,2022-12-20,False,US-NY,d211e8f8-1813-4971-8115-03006d4be694,Tuesday,1,Tuesday,1
+131,December Solstice,2022-12-21,2022-12-21,False,US-NY,99717910-e9b3-418f-a096-9f462cebf52b,Wednesday,2,Wednesday,2
+132,Third Day of Hanukkah,2022-12-21,2022-12-21,False,US-NY,edd8d44d-8aa8-45fa-b335-bd20ca3b9b9a,Wednesday,2,Wednesday,2
+133,Fourth Day of Hanukkah,2022-12-22,2022-12-22,False,US-NY,ccdd95c2-b346-4ebc-a65a-b0bd644f6d9b,Thursday,3,Thursday,3
+134,Fifth Day of Hanukkah,2022-12-23,2022-12-23,False,US-NY,7f82dee2-77b6-4561-bc9e-a4ffb4ffed2f,Friday,4,Friday,4
+135,Christmas Eve,2022-12-24,2022-12-24,False,US-NY,241fb431-3f82-4d55-a93d-973f3004b174,Saturday,5,Saturday,5
+136,Sixth Day of Hanukkah,2022-12-24,2022-12-24,False,US-NY,ffe9695d-3246-4b88-9556-c50ad4c39be9,Saturday,5,Saturday,5
+137,Seventh Day of Hanukkah,2022-12-25,2022-12-25,False,US-NY,fbd53380-b8a8-449f-ad44-b0b1f723e2d2,Sunday,6,Sunday,6
+138,Christmas Day,2022-12-25,2022-12-26,True,US-NY,57787cbd-300c-48e4-a456-165c8bdc97b0,Sunday,6,Monday,0
+139,Eighth Day of Hanukkah,2022-12-26,2022-12-26,False,US-NY,640e4c4d-46e6-4c83-b78a-74abec30dbeb,Monday,0,Monday,0
+140,Kwanzaa,2022-12-26,2022-12-26,False,US-NY,a55d4594-ccb6-4eeb-b768-5b0993e79763,Monday,0,Monday,0
+141,Second Day of Kwanzaa,2022-12-27,2022-12-27,False,US-NY,8fea8545-3e43-4312-86e0-d9cf40ed28ac,Tuesday,1,Tuesday,1
+142,Third Day of Kwanzaa,2022-12-28,2022-12-28,False,US-NY,121999c4-4966-4895-9f54-445ff432bb8b,Wednesday,2,Wednesday,2
+143,Fourth Day of Kwanzaa,2022-12-29,2022-12-29,False,US-NY,40f2731d-ecee-4989-98b7-03cfb47b284a,Thursday,3,Thursday,3
+144,Fifth Day of Kwanzaa,2022-12-30,2022-12-30,False,US-NY,07a0dad3-0a86-43f3-b0cf-43b74ce9f0fa,Friday,4,Friday,4
+145,New Year's Eve,2022-12-31,2022-12-31,False,US-NY,6a153f07-0520-45be-83cd-ed6b6d743df0,Saturday,5,Saturday,5
+146,Sixth Day of Kwanzaa,2022-12-31,2022-12-31,False,US-NY,c4e2ba85-1e50-4294-9472-164e55d4ceca,Saturday,5,Saturday,5
